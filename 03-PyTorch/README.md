@@ -26,4 +26,4 @@ Write a neural network that has
 - ### Results
   - \> 99% test accuracy for both tasks within 5 epochs 
 
-Colab Notebook Link: : https://colab.research.google.com/github/ShreyJ1729/EVA6-TSAI/blob/main/03-PyTorch/3-PyTorch.ipynb
+Colab Notebook Link: https://colab.research.google.com/github/ShreyJ1729/EVA6-TSAI/blob/main/03-PyTorch/3-PyTorch.ipynb
