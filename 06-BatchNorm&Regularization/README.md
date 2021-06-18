@@ -1,4 +1,4 @@
-# Session 5 - Batch Normalization & Regularization
+# Session 6 - Batch Normalization & Regularization
 
 ## Goal
 Write three networks using GN, LN, BN, and L1/L2 regularization
